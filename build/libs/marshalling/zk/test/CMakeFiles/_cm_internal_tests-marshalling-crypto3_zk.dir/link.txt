@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib_cm_internal_tests-marshalling-crypto3_zk.a CMakeFiles/_cm_internal_tests-marshalling-crypto3_zk.dir/_cm_internal_tests-marshalling-crypto3_zk.cpp.o
+/usr/bin/ranlib lib_cm_internal_tests-marshalling-crypto3_zk.a

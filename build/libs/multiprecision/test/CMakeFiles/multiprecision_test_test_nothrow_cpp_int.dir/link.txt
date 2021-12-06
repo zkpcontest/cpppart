@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmultiprecision_test_test_nothrow_cpp_int.a CMakeFiles/multiprecision_test_test_nothrow_cpp_int.dir/test_nothrow_cpp_int.cpp.o
+/usr/bin/ranlib libmultiprecision_test_test_nothrow_cpp_int.a

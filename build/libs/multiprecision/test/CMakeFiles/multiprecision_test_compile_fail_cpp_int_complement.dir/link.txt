@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmultiprecision_test_compile_fail_cpp_int_complement.a CMakeFiles/multiprecision_test_compile_fail_cpp_int_complement.dir/compile_fail/cpp_int_complement.cpp.o
+/usr/bin/ranlib libmultiprecision_test_compile_fail_cpp_int_complement.a

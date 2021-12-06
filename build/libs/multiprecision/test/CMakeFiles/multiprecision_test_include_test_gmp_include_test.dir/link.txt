@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmultiprecision_test_include_test_gmp_include_test.a CMakeFiles/multiprecision_test_include_test_gmp_include_test.dir/include_test/gmp_include_test.cpp.o
+/usr/bin/ranlib libmultiprecision_test_include_test_gmp_include_test.a

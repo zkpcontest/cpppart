@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmultiprecision_test_git_issue_30.a CMakeFiles/multiprecision_test_git_issue_30.dir/git_issue_30.cpp.o
+/usr/bin/ranlib libmultiprecision_test_git_issue_30.a

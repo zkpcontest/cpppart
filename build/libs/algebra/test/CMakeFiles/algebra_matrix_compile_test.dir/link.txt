@@ -1,0 +1,2 @@
+/usr/bin/ar qc libalgebra_matrix_compile_test.a CMakeFiles/algebra_matrix_compile_test.dir/matrix.cpp.o
+/usr/bin/ranlib libalgebra_matrix_compile_test.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libalgebra_vector_compile_test.a CMakeFiles/algebra_vector_compile_test.dir/vector.cpp.o
+/usr/bin/ranlib libalgebra_vector_compile_test.a

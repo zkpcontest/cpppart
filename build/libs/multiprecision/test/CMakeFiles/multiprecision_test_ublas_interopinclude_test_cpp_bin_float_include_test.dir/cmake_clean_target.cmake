@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libmultiprecision_test_ublas_interopinclude_test_cpp_bin_float_include_test.a"
+)

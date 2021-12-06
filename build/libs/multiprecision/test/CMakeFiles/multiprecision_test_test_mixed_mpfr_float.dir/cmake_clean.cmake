@@ -1,0 +1,11 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/multiprecision_test_test_mixed_mpfr_float.dir/test_mixed_mpfr_float.cpp.o"
+  "CMakeFiles/multiprecision_test_test_mixed_mpfr_float.dir/test_mixed_mpfr_float.cpp.o.d"
+  "multiprecision_test_test_mixed_mpfr_float"
+  "multiprecision_test_test_mixed_mpfr_float.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/multiprecision_test_test_mixed_mpfr_float.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
